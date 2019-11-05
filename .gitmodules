@@ -1,24 +1,24 @@
 [submodule "odoo-argentina"]
 	path = odoo-argentina
 	url = https://github.com/ctmil/odoo-argentina
-	branch = 12.0
+	branch = 13.0
 [submodule "miscellaneous"]
 	path = miscellaneous
 	url = https://github.com/ctmil/miscellaneous
-	branch = 12.0
+	branch = 13.0
 [submodule "account-payment"]
 	path = account-payment
 	url = https://github.com/ctmil/account-payment
-	branch = 12.0
+	branch = 13.0
 [submodule "account-financial-tools"]
 	path = account-financial-tools
 	url = https://github.com/ctmil/account-financial-tools
-	branch = 12.0
+	branch = 13.0
 [submodule "reporting-engine"]
 	path = reporting-engine
 	url = https://github.com/OCA/reporting-engine
-	branch = 12.0
+	branch = 13.0
 [submodule "partner-contact"]
 	path = partner-contact
 	url = https://github.com/OCA/partner-contact
-	branch = 12.0
+	branch = 13.0
